@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi! I'm [Bahrul Ulum]
+
+![Bahrul Ulum](img/github-header-banner.png)
+**Full-Stack Web Developer | System & Database Designer**
+
+Building robust backends and clean frontends. Let's build something awesome together!
 
 <!--
 **Bahrull-17/Bahrull-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
