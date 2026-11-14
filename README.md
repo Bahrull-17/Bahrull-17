@@ -39,6 +39,9 @@ SEO-focused cargo website designed to improve online visibility and customer acc
 - Tailwind CSS
 - Cloudflare
 
+🌐 Website:
+https://lioncargoownsale.com
+
 
 ---
 
@@ -93,8 +96,37 @@ https://bahrull-17.github.io/Portfolio/
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Areas of Interest
 
-![Bahrul Ulum GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bahrull-17&show_icons=true&theme=tokyonight)
+I am continuously exploring and building solutions across different areas of software development.
 
-![Bahrul Ulum Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bahrull-17&theme=tokyonight)
+### 🌐 Full Stack Development
+Building modern web applications with:
+- React
+- Next.js
+- TypeScript
+- Laravel
+- Database-driven systems
+
+
+### 📱 Mobile Development
+Exploring mobile application development with:
+- React Native
+- Cross-platform application development
+- Mobile UI/UX principles
+
+
+### 🤖 Data Science & AI
+Learning and experimenting with:
+- Python
+- Data analysis
+- Machine learning concepts
+- AI-powered applications
+
+
+### 🎯 Software Engineering
+Interested in:
+- Clean architecture
+- Scalable application design
+- Problem solving
+- Building technology solutions that provide real business value
