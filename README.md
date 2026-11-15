@@ -8,23 +8,24 @@ I build modern, responsive, and scalable web applications with a focus on clean 
 
 I have experience developing company profile websites, business applications, and database-driven systems using modern web technologies.
 
+🎯 **Open to Full Stack Developer roles.** Currently growing my skills in Data Science.
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 🚚 Lion Cargo Logistik
 
-A modern company profile website for air cargo services in Indonesia.
+A bilingual (Indonesian / English) company profile website for an air cargo service in Indonesia, with a shipping rate calculator and a content admin panel.
 
-**Tech Stack:**
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Supabase
-- SEO Optimization
+- Shipping rate calculator that prepares a WhatsApp message from the quote
+- Admin panel for managing articles and tariffs
+- SEO setup with Schema.org structured data and a generated sitemap
+- Deployed on Cloudflare Workers via OpenNext
 
-🌐 Website:
-https://lioncargologistik.com
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, next-intl, Cloudflare Workers
+
+🌐 [Live website](https://lioncargologistik.com) · 💻 [Source code](https://github.com/Bahrull-17/lion-cargo-logistik)
 
 
 ---
@@ -33,14 +34,9 @@ https://lioncargologistik.com
 
 SEO-focused cargo website designed to improve online visibility and customer accessibility.
 
-**Tech Stack:**
-- React
-- Vite
-- Tailwind CSS
-- Cloudflare
+**Tech Stack:** React, Vite, Tailwind CSS, Cloudflare
 
-🌐 Website:
-https://lioncargoownsale.com
+🌐 [Live website](https://lioncargoownsale.com)
 
 
 ---
@@ -49,16 +45,12 @@ https://lioncargoownsale.com
 
 Full-stack rental management application.
 
-**Features:**
 - Authentication
 - Product management
 - Transaction management
 - Database integration
 
-**Tech Stack:**
-- Laravel
-- PHP
-- MySQL
+**Tech Stack:** Laravel, PHP, MySQL
 
 
 ---
@@ -82,51 +74,26 @@ Full-stack rental management application.
 
 ---
 
-## 🌐 Portfolio
+## 🌱 Currently Learning & Goals
 
-https://bahrull-17.github.io/Portfolio/
+I am building toward a career in **Full Stack Development** and **Data Science**.
+
+**Data Science (learning)**
+- Python
+- Data analysis
+- Machine learning concepts
+
+**Full Stack (growing)**
+- Scalable application design and clean architecture
+- Building technology solutions that provide real business value
+
+I am also exploring mobile development with React Native.
 
 
 ---
 
 ## 📫 Connect With Me
 
+🌐 [Portfolio](https://bahrull-17.github.io/Portfolio/)
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bahrul-ulum17)
-
-
----
-
-## 🚀 Areas of Interest
-
-I am continuously exploring and building solutions across different areas of software development.
-
-### 🌐 Full Stack Development
-Building modern web applications with:
-- React
-- Next.js
-- TypeScript
-- Laravel
-- Database-driven systems
-
-
-### 📱 Mobile Development
-Exploring mobile application development with:
-- React Native
-- Cross-platform application development
-- Mobile UI/UX principles
-
-
-### 🤖 Data Science & AI
-Learning and experimenting with:
-- Python
-- Data analysis
-- Machine learning concepts
-- AI-powered applications
-
-
-### 🎯 Software Engineering
-Interested in:
-- Clean architecture
-- Scalable application design
-- Problem solving
-- Building technology solutions that provide real business value
