@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Bahrul Ulum
 
-![Bahrul Ulum](img/github-header-banner.png)
+![Bahrul Ulum](img/banner.png)
 
 ## Full Stack Developer
 
@@ -27,7 +27,6 @@ A bilingual (Indonesian / English) company profile website for an air cargo serv
 
 🌐 [Live website](https://lioncargologistik.com) · 💻 [Source code](https://github.com/Bahrull-17/lion-cargo-logistik)
 
-
 ---
 
 ### ✈️ Lion Cargo Ownsale
@@ -37,7 +36,6 @@ SEO-focused cargo website designed to improve online visibility and customer acc
 **Tech Stack:** React, Vite, Tailwind CSS, Cloudflare
 
 🌐 [Live website](https://lioncargoownsale.com)
-
 
 ---
 
@@ -52,7 +50,6 @@ Full-stack rental management application.
 
 **Tech Stack:** Laravel, PHP, MySQL
 
-
 ---
 
 ## 🛠 Tech Stack
@@ -61,16 +58,13 @@ Full-stack rental management application.
 
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript)](https://skillicons.dev)
 
-
 ### Backend
 
 [![Backend Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,supabase,mysql)](https://skillicons.dev)
 
-
 ### Tools
 
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare)](https://skillicons.dev)
-
 
 ---
 
@@ -79,16 +73,17 @@ Full-stack rental management application.
 I am building toward a career in **Full Stack Development** and **Data Science**.
 
 **Data Science (learning)**
+
 - Python
 - Data analysis
 - Machine learning concepts
 
 **Full Stack (growing)**
+
 - Scalable application design and clean architecture
 - Building technology solutions that provide real business value
 
 I am also exploring mobile development with React Native.
-
 
 ---
 
