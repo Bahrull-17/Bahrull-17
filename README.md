@@ -31,12 +31,18 @@ A bilingual (Indonesian / English) company profile website for an air cargo serv
 
 ### ✈️ Lion Cargo Ownsale
 
-SEO-focused cargo website designed to improve online visibility and customer accessibility.
+An SEO-focused website for an air cargo service departing from Soekarno-Hatta Airport, with a shipping rate calculator and dedicated pages for 24 destination cities.
 
-**Tech Stack:** React, Vite, Tailwind CSS, Cloudflare
+- Every page is prerendered to static HTML at build time, with its own metadata and a generated sitemap
+- Tariff data is managed in Google Sheets and validated before use, with built-in fallback data
+- Shipping rate calculator and WhatsApp contact links with prefilled messages
+- Light and dark mode, deployed as static assets on Cloudflare Workers
 
-🌐 [Live website](https://lioncargoownsale.com)
+**Tech Stack:** React, Vite, React Router, Tailwind CSS, Google Sheets, Cloudflare Workers
 
+🌐 [Live website](https://lioncargoownsale.com) · 💻 [Source code](https://github.com/Bahrull-17/lion-cargo-ownsale)
+
+---
 ---
 
 ### 🏗️ Rental Alat Berat System
